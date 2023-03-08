@@ -2,6 +2,8 @@
 
 A webapp which can be used to find github users only with their username. It's pretty dumb but the UI is beautiful. Made for fun.
 
+**URL**: https://github-user-finder-00.web.app/
+
 **Technologies Used**
 - React
 - CSS
