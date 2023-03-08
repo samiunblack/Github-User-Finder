@@ -30,6 +30,7 @@ function App() {
             <button style={{width: '90px', height: '40px', borderRadius: '8px', color: '#FFFFFF', backgroundColor: '#0079FE', border: 'none', cursor: 'pointer', fontFamily: "'Space mono', monospace"}} onClick={fetchData}>Search</button>
         </div>
       <Profile githubData={githubData}/>
+      <footer style={{position: "absolute", bottom: '0', left: '50%'}}><div style={{position: 'relative', left: '-50%'}}>Made with ❤️ by Samiun Black</div></footer>
     </div>
   );
 }

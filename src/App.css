@@ -20,6 +20,7 @@ body {
   flex-direction: column;
   padding-bottom: 120px;
   padding-top: 100px;
+  position: relatve;
 }
 
 ::placeholder {
