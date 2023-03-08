@@ -1,4 +1,4 @@
-# Github User Finder
+# github user finder
 
 A webapp which can be used to find github users only with their username. It's pretty dumb but the UI is beautiful. Made for fun.
 
